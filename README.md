@@ -1,12 +1,12 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Intranet Template
-Template with home page and admin loggedIn
+Template with home page and admin log in
 
 ## How to use
-sure your system has npm.
-Clone this repository.
-Install dependencies with npm install.
-Make relevant changes.
-Build with npm run build.
-Run npm start on your terminal.
+Make sure your system has npm. <br />
+Clone this repository. <br />
+Install dependencies with npm install. <br />
+Make relevant changes. <br />
+Build with npm run build. <br />
+Run npm start on your terminal. 
