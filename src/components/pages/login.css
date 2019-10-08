@@ -1,0 +1,77 @@
+body {
+  background: #d2d6de;
+}
+
+.auth-signin {
+  text-align: center;
+}
+.button {
+  width: 40%;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  padding: 10px;
+}
+
+a {
+
+}
+
+.oauth {
+  background: #FF8C00;
+  margin-right: 13px;
+  font-size: 15px;
+  margin: 10px;
+  color: white;
+}
+
+.submitbtn {
+  background: #3c8dbc;
+  margin-right: 13px;
+  font-size: 15px;
+  margin: 10px;
+  text-align: center;
+  white-space: nowrap;
+  color: white;
+  vertical-align: middle;
+}
+
+.labels{
+  font-size: 30px;
+  margin-top: 75px;
+  text-align: center;
+}
+
+.form1{
+  font-size: 20px;
+  margin-top: 15px;
+  text-align: center;
+}
+
+.uname1 {
+  width: 30%;
+  box-sizing: border-box;
+  border: 2px solid #ccc;
+  border-radius: 4px;
+  font-size: 16px;
+  background-color: white;
+  background-position: 5px 3px;
+  background-size: 20px;
+  background-repeat: no-repeat;
+  padding-left: 30px;
+  background-image: url('../../Assets/images/uname.png');
+}
+
+.upass1 {
+  width: 30%;
+  box-sizing: border-box;
+  border: 2px solid #ccc;
+  border-radius: 4px;
+  font-size: 16px;
+  background-color: white;
+  background-position: 7px 3px;
+  background-size: 15px;
+  background-repeat: no-repeat;
+  padding-left: 30px;
+  background-image: url('../../Assets/images/pass.png');
+}

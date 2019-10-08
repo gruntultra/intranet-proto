@@ -1,0 +1,51 @@
+.adminheader {
+  position: relative;
+  display: block;
+  width:100%;
+  background: #FF8C00;
+  color: #FFFAF0;
+  height: 90px;
+}
+
+.hallname2 {
+  position: absolute;
+  font-size: 20px;
+}
+
+.firstName{
+  display: inline-block;
+  margin-right: 0px;
+}
+
+.nav1 {
+  position: absolute;
+  top: 100px; right: 15px;
+}
+
+.log1 {
+  font-size: 20px;
+  line-height: normal;
+  color: #FFFAF0;
+  text-decoration: none;
+}
+
+.log2 {
+  font-size: 20px;
+  line-height: normal;
+  color: #FFFAF0;
+  text-decoration: none;
+}
+
+.log1:hover {
+background-color: transparent;
+color: white;
+padding: 5px;
+text-decoration: none;
+}
+
+.log2:hover {
+background-color:transparent;
+color: white;
+padding: 5px;
+text-decoration: none;
+}

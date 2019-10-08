@@ -1,0 +1,52 @@
+header {
+  position: relative;
+  display: block;
+  width:100%;
+  background: #FF8C00;
+  color: #FFFAF0;
+  height: 90px;
+
+
+}
+
+.hallname {
+  margin:0px;
+  padding: 0px;
+  position: absolute;
+  top: 20px;
+  left:90px;
+}
+
+nav,
+nav ul,
+nav ul li {
+  margin: 30;
+  padding: 0;
+}
+
+nav {
+  position: absolute;
+  top: 40px; right: 15px;
+}
+
+ul li {
+  list-style-type: none;
+  display: inline-block;
+  margin-right: 50px;
+}
+
+
+a{
+  font-size: 20px;
+  font-weight: bold;
+  line-height: normal;
+  color: #FFFAF0;
+  text-decoration: none;
+}
+
+a:hover {
+background-color: #ffa500;
+color: white;
+padding: 5px;
+text-decoration: none;
+}
