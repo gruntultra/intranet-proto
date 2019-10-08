@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/intranet-proto/static/css/main.2776444d.chunk.css",
+    "main.js": "/intranet-proto/static/js/main.e306040e.chunk.js",
+    "main.js.map": "/intranet-proto/static/js/main.e306040e.chunk.js.map",
+    "runtime-main.js": "/intranet-proto/static/js/runtime-main.f38cfd63.js",
+    "runtime-main.js.map": "/intranet-proto/static/js/runtime-main.f38cfd63.js.map",
+    "static/js/2.dc1c41cc.chunk.js": "/intranet-proto/static/js/2.dc1c41cc.chunk.js",
+    "static/js/2.dc1c41cc.chunk.js.map": "/intranet-proto/static/js/2.dc1c41cc.chunk.js.map",
+    "index.html": "/intranet-proto/index.html",
+    "precache-manifest.4c4f30e882b9e2113d4051ff86f25425.js": "/intranet-proto/precache-manifest.4c4f30e882b9e2113d4051ff86f25425.js",
+    "service-worker.js": "/intranet-proto/service-worker.js",
+    "static/css/main.2776444d.chunk.css.map": "/intranet-proto/static/css/main.2776444d.chunk.css.map",
+    "static/media/rag.png": "/intranet-proto/static/media/rag.13f4793b.png",
+    "static/media/sheares-hall-logo.png": "/intranet-proto/static/media/sheares-hall-logo.31e4fe51.png",
+    "static/media/login.css": "/intranet-proto/static/media/uname.3e97d523.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f38cfd63.js",
+    "static/js/2.dc1c41cc.chunk.js",
+    "static/css/main.2776444d.chunk.css",
+    "static/js/main.e306040e.chunk.js"
+  ]
+}
